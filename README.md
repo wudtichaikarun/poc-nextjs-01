@@ -12,6 +12,20 @@ yarn dev
 pnpm dev
 ```
 
+## Example
+
+[Next.js Full Course for Beginners | Nextjs 13 Tutorial | 7 Hours](https://www.youtube.com/watch?v=843nec-IvW0&t=1s)
+
+0:00-41:56
+
+- [x] 17:58-20:10 basic routing links create "About page"
+- [x] 21:16-25:19 page and layout, global layout, local layout page loading
+- [x] 25.19-27:36 link to page (link react-router)
+- [x] 27:43-30:32:26 styles local and global module
+- [x] 32:30-36:28 SEO & Metadata
+- [x] 32:30-38:00 loading... state
+- [x] 38:15-41:18 error handling
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
